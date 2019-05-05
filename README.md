@@ -21,4 +21,4 @@ You can run the conversion for the example using `java -jar dist/lib/csv2rdf.jar
 
 
 
-[![Build Status](https://travis-ci.com/BME-MIT-IET/3TB-iet-2019.svg?branch=master)](https://travis-ci.com/BME-MIT-IET/3TB-iet-2019)
+[![Build Status](https://travis-ci.com/BME-MIT-IET/3TB-iet-2019.png?branch=master)](https://travis-ci.com/BME-MIT-IET/3TB-iet-2019)
