@@ -17,3 +17,8 @@ You can run the tool with the command `java -jar dist/lib/csv2rdf.jar` followed 
 You can see the help screen with the command `java -jar dist/lib/csv2rdf.jar help convert`.
 
 You can run the conversion for the example using `java -jar dist/lib/csv2rdf.jar examples/cars/template.ttl examples/cars/cars.csv cars.ttl`. 
+
+
+
+
+[![Build Status](https://travis-ci.com/BME-MIT-IET/3TB-iet-2019.svg?branch=master)](https://travis-ci.com/BME-MIT-IET/3TB-iet-2019)
